@@ -1,12 +1,12 @@
-# Machine Learning Books 
+### Machine Learning Books 
 
-# Deep Learning Books 
+### Deep Learning Books 
 
-# Machine Learning Courses 
+### Machine Learning Courses 
 
-# DeepLearning Courses 
+### DeepLearning Courses 
 - 7Days of DeepLearning Basic Course From Coursera
 
-# Bash Shell Scripting 
+### Bash Shell Scripting 
 
-# ML Ops 
+### ML Ops 
