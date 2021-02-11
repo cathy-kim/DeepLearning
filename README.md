@@ -1,9 +1,5 @@
 Study Lists 
 
-### Machine Learning Books 
-
-### Deep Learning Books 
-
 ### Machine Learning Courses 
 
 ### DeepLearning Courses 
@@ -19,3 +15,6 @@ Study Lists
 # ML Interviews 
 - Minimal Viable Study : https://github.com/cathy-kim/machine-learning-interview 
 
+# How to write better code? 
+- Refactoring 
+- Clean Code 
